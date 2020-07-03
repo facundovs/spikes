@@ -13,7 +13,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import java.io.FileOutputStream;
 
-public class PDFGeneration {
+public class MyEventPDFGeneration {
 
     public static void main(String[] args) throws Exception{
 
